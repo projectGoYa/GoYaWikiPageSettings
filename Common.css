@@ -1,1 +1,5 @@
+a[target=_blank] {
+  padding-right: 20px;	background: url(XXX.png) right center/11px auto no-repeat;
+}
 
+/* by https://gray-code.com/html_css/display-icon-for-link-out-site/ */
